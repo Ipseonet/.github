@@ -1,10 +1,10 @@
 # IPSEONET
 
-Small-business security and infrastructure tooling by **IPSEONET LLC** —
-the team behind [AetoLux](https://aetolux.com).
+Small-business security and infrastructure tooling, maintained by **IPSEONET LLC** —
+the entity behind [AetoLux](https://aetolux.com).
 
-We publish focused, well-tested, zero-nonsense building blocks under the
-`@ipseonet` npm scope, extracted from tools we run in production.
+We publish focused, well-tested building blocks under the `@ipseonet` npm scope,
+extracted from tools we run in production.
 
 ## Packages
 
@@ -22,7 +22,7 @@ We publish focused, well-tested, zero-nonsense building blocks under the
 ## Security
 
 See our [security policy](https://github.com/ipseonet/.github/blob/main/SECURITY.md).
-Report issues privately via GitHub or **security@ipseonet.com**.
+Report issues privately via GitHub or **<security@ipseonet.com>**.
 
 ---
 
